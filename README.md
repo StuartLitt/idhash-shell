@@ -17,8 +17,11 @@ Digite o seguinte para executar:
 
 # Manual e Funcionalidades
 **Comandos:**
+
 *ssend - para se identificar*
+
 *sreceived - para checar a identificação*
+
 **ssend:**
 
 *-digite o host do identificador*
