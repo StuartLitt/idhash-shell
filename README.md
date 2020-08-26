@@ -36,3 +36,15 @@ Digite o seguinte para executar:
 *-aguarde o identificador preencher os dados para apertar enter*
 
 *-"///Handshake confirmado///"*
+
+**sreceived**
+
+*-digite o host do identificador*
+
+*-digite o id do identificado*
+
+*-digite a seed numérica*
+
+*-aguarde o identificado*
+
+*-"[handshake finalizado]"*
