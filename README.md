@@ -1,5 +1,5 @@
 # idhash-shell
-O IDHash tem por objetivo criar uma hash que possa ser usado para se identificar usando handshake.
+O IDHash tem por objetivo criar uma hash que possa ser usado para se identificar usando handshake em shell.
 
 Para executar o programa é necessário o seguinte pacote:
 
