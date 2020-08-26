@@ -34,7 +34,7 @@ Digite o seguinte para executar:
 
 *-compartilhe a seed numérica com o identificador*
 
-*-envie seu endereço ip(yggdrasil) com o identificador*
+*-envie seu endereço ip(yggdrasil) para o identificador*
 
 *-aguarde o identificador preencher os dados para apertar enter*
 
@@ -47,6 +47,8 @@ Digite o seguinte para executar:
 *-digite o id do identificado*
 
 *-digite a seed numérica*
+
+-envie seu endereço ip(yggdrasil) para o identificado*
 
 *-aguarde o identificado*
 
