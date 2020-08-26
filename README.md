@@ -37,7 +37,7 @@ Digite o seguinte para executar:
 
 *-"///Handshake confirmado///"*
 
-**sreceived**
+**sreceived:**
 
 *-digite o host do identificador*
 
