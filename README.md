@@ -5,6 +5,14 @@ Para executar o programa é necessário o seguinte pacote:
 
 apt install netcat
 
+apt install git
+
+Para baixar o repositório:
+
+git clone https://github.com/StuartLitt/idhash-shell
+
 Digite o seguinte para executar:
 
-sh idhash.sh
+cd idhash-shell ; sh idhash.sh
+
+**
