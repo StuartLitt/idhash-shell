@@ -2,7 +2,7 @@
 #idhash-shell
 #essa versão tem por objetivo executar e fundir os dos clients em um.
 #echo "///INSIRA O HOST///"
-host="localhost"
+#host="localhost"
 
 
 #read host
