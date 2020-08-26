@@ -12,6 +12,8 @@ host="localhost"
 
 #echo -
 ssend() {
+echo "///HOST PARA ESTABELECER CONEXÃO///"
+read host
 echo "digite o usuario de acesso: "
 
 read user
@@ -76,6 +78,8 @@ fi
 
 
 sreceived() {
+echo "///HOST PARA ESTABELECER CONEXÃO///"
+read host
 echo "Digite o id do usuario: "
 read frkey
 echo "|||INSIRA A SEED PARA EFETUAR O HANDSHAKE|||"
