@@ -3,6 +3,8 @@ O IDHash tem por objetivo criar uma hash que possa ser usado para se identificar
 
 Para executar o programa é necessário o seguinte pacote:
 
+*apt install gpg*
+
 *apt install netcat*
 
 *apt install git*
@@ -26,9 +28,7 @@ Digite o seguinte para executar:
 
 *-digite o host do identificador*
 
-*-crie/adicione um usuario*
-
-*-crie/adicione uma senha*
+*-adicione seu usuario gpg*
 
 *-compartilhe o id de usuario com o identificador*
 
