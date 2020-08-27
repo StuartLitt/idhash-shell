@@ -9,6 +9,10 @@ Para executar o programa é necessário o seguinte pacote:
 
 *apt install git*
 
+Para gerar a chave pública gpg:
+
+*gpg --gen-key*
+
 Para baixar o repositório:
 
 *git clone https://github.com/StuartLitt/idhash-shell*
