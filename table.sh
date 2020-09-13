@@ -7,4 +7,4 @@ ip="200:5b19:8017:a074:b39a:7aae:4c5c:cd81"
 echo "$ip" > $hash
 echo "$ip" >> iptable.txt
 echo "$hash" >> table.txt
-echo "$ip 7777 < table.sh" > tabletran.txt
+echo "http://[$ip]:7777/table.sh" > tabletran.txt
